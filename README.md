@@ -1,11 +1,10 @@
 ### Olá, eu sou o MANTOVAS 🤠!
-Tenho 19 anos, sou natural de São Paulo e conclui o ensino médio no ano passado. Desde criança, sempre fui fascinado por tecnologia e coisas futuristas, o que me motivou a seguir o sonho de cursar Engenharia de Software. Sou uma pessoa de fácil convivência, bem comunicativa e motivada a aprender continuamente.
+- Tenho 19 anos, sou natural de São Paulo. Desde criança, sempre fui fascinado por tecnologia e coisas futuristas, o que me motivou a seguir o sonho de cursar Engenharia de Software. Sou uma pessoa de fácil convivência, bem comunicativa e motivada a aprender continuamente.
 
-Meu hobby favorito é jogar, algo que sempre foi uma paixão para mim. Além de diversão, os jogos me ensinaram a ser criativo, estratégico e a dar atenção aos detalhes—qualidades que levo comigo para o mundo da tecnologia.
-
+- Meu hobby favorito é jogar, algo que sempre foi uma paixão para mim. Além de diversão, os jogos me ensinaram a ser criativo, estratégico e a dar atenção aos detalhes que levo comigo para o mundo da tecnologia ☝️🤓.
 <br/>
 
-### 🤖Linguagens e tecnologias
+### 🤖Linguagens e tecnologia
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
