@@ -23,10 +23,17 @@ Meu hobby favorito é jogar, algo que sempre foi uma paixão para mim. Além de 
 
 ### 📊 Estatísticas 
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=VMantovaniKT&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+
+<a href="https://github-readme-stats.vercel.app/api?username=VMantovaniKT&show_icons=true&theme=tokyonight&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMantovaniKT&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=VMantovaniKT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMantovaniKT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"/>
+</a>
+
+
+
+
+
+
+
