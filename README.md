@@ -1,5 +1,5 @@
 ### Olá, eu sou o MANTOVAS 🤠!
-- Tenho 19 anos, sou natural de São Paulo. Desde criança, sempre fui fascinado por tecnologia e coisas futuristas, o que me motivou a seguir o sonho de cursar Engenharia de Software. Sou uma pessoa de fácil convivência, bem comunicativa e motivada a aprender continuamente.
+- Tenho 19 anos, sou natural de São Paulo. Desde criança, sempre fui fascinado por tecnologia e coisas futuristas, o que me motivou a seguir o sonho de cursar Ciência de Dados. Sou uma pessoa de fácil convivência, bem comunicativa e motivada a aprender continuamente.
 
 - Meu hobby favorito é jogar, algo que sempre foi uma paixão para mim. Além de diversão, os jogos me ensinaram a ser criativo, estratégico e a dar atenção aos detalhes que levo comigo para o mundo da tecnologia ☝️🤓.
 <br/>
